@@ -5,7 +5,7 @@ tags: Web3
 
 Hackermoon是面向 Web3/Dweb 开发者的精神营地，我们通过将开发者关心的信息进行整合，希望能够节省一些大家的时间。
 
-目前Hackmoon聚合的资源类型主要是：可以面向token编程的活动信息、羊毛信息，本仓库中的资料整理自网络，也有一些来自社区开发者的推荐。希望大家撸的开心:-D
+目前Hackermoon聚合的资源类型主要是：可以面向token编程的活动信息、羊毛信息，本仓库中的资料整理自网络，也有一些来自社区开发者的推荐。希望大家撸的开心:-D
 
 ## 目录
 
@@ -35,8 +35,8 @@ Feature-Bounty是指项目方需要更多的外界力量来完善自己的产品
 * [CeloCamp - 4月10日截止 - 冠军1万美金+洛杉矶机票](https://hackmd.io/@hackermoon/HkDCUnoVU)
 
 
-### Hackerthon黑客松
-Hackerthon是一种程序员的宗教活动：在该活动中，很多程序员相聚在一起，以合作的形式去进行没什么实际意义的电脑编程。时长一般取决于红牛数量（days-weeks），良心点的项目方不会对Hackerthon做内幕交易。我们无法分辨，所以会全部推荐！
+### Hackathon黑客松
+Hackathon是一种程序员的宗教活动：在该活动中，很多程序员相聚在一起，以合作的形式去进行没什么实际意义的电脑编程。时长一般取决于红牛数量（days-weeks），良心点的项目方不会对Hackathon做内幕交易。我们无法分辨，所以会全部推荐！
 
 * [武汉2020黑客松 - 3月6日~8日 - 无奖励](https://mp.weixin.qq.com/s/fHv1Uvdcw5vc1Mk_VXFRPg)
 * [CreatED - 3月13日截止 - 无奖励](https://hackmd.io/@hackermoon/Hktflx248)
