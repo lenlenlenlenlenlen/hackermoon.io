@@ -78,66 +78,177 @@ Hackerthon是一种程序员的宗教活动：在该活动中，很多程序员�
 
 ## 活跃项目
 
-### Algorand
+### [Algorand](https://www.algorand.com)
 
-<iframe src="https://embed.block123.com/embed/s/305280277937.htm" style="border: none;" width="490" height="164" frameborder="0" scrolling="no" allowfullscreen></iframe>
+> 图灵奖得主、MIT 教授 Sivio Micali 筹资开发的区块链协议。
 
-### Gitcoin
+`基础设施` 
 
-<iframe src="https://embed.block123.com/embed/s/246415224420.htm" style="border: none;" width="490" height="164" frameborder="0" scrolling="no" allowfullscreen></iframe>
+Algorand 代表了区块链底层技术发展的一个方向。Algorand 是权益证明 PoS 机制的一种变形，PoS 使用了密码技术来随机选择那些负责将下一个区块（或交易）添加到区块链中的参与者。
 
-### Waves
-
-<iframe src="https://embed.block123.com/embed/s/133471143379.htm" style="border: none;" width="490" height="164" frameborder="0" scrolling="no" allowfullscreen></iframe>
-
-### 比原链
-
-<iframe src="https://embed.block123.com/embed/s/231174393231.htm" style="border: none;" width="490" height="164" frameborder="0" scrolling="no" allowfullscreen></iframe>
-
-### RSK
+Micali 教授带领的 Algorand 团队聚集了世界级顶尖的密码学专家，均是麻省理工学院计算机科学领域的佼佼者，专业理论和科研实力雄厚。此外，Algorand 在战略管理、经济学、计算机科学和加密货币四大重要版块的顾问均是各自领域的行业影响者，包括知名风投 Pillar 和 USV 的合伙人，MIT 和哈佛大学的经济学教授，美国顶级高校的电子信息工程和计算机科学教授，CoinList 的创始人和 Zcash 底层协议的联合发明者等。
 
 
+### [Gitcoin](https://gitcoin.co/)
 
-### Augur
+> 通过区块链支持各类开源项目，促进开源运动的发展。
 
-<iframe src="https://embed.block123.com/embed/s/674095897562.htm" style="border: none;" width="490" height="164" frameborder="0" scrolling="no" allowfullscreen></iframe>
+`ConsenSys` `开发`
 
-### LatticeX
 
-<iframe src="https://embed.block123.com/embed/s/050089911278.htm" style="border: none;" width="490" height="164" frameborder="0" scrolling="no" allowfullscreen></iframe>
+开源软件开发激励平台 Gitcoin，其愿景是通过区块链支持各类开源项目，促进开源运动的发展。由 ConsenSys 支持。
 
-### Nebulous
+如果你是某开源项目的发起者，或者你正在管理某 Github 开源项目的代码仓库，你可以在 Gitcoin 上发起 Issues 悬赏，这个 Issues 可能是修复某个 bug、开发某个功能或者解决某个安全问题，感兴趣的开发者就可以领取 Issues 悬赏，并在 Github 上进行代码协作。如果发起人接受了你提交的 Pull Request，悬赏绑定的 ETH 便会自动打到开发者的钱包地址里。
 
-<iframe src="https://embed.block123.com/embed/s/233061085427.htm" style="border: none;" width="490" height="164" frameborder="0" scrolling="no" allowfullscreen></iframe>
+简单来讲，Gitcoin 把 Github 上的开源协作机制代币化，现在他们则可以在兴趣与志愿之外，获得一点经济上的回报和奖励。
 
-### Ontology
+### [Waves](https://wavesplatform.com/)
 
-<iframe src="https://embed.block123.com/embed/s/401372199242.htm" style="border: none;" width="490" height="164" frameborder="0" scrolling="no" allowfullscreen></iframe>
+`基础设施` `Waves`
 
-### Celo
+在 Waves 区块链上进行资产及自定义代币发行、转换、交易的加密平台，实现中心化订单匹配和去中心化结算。
 
-<iframe src="https://embed.block123.com/embed/s/780286036815.htm" style="border: none;" width="490" height="164" frameborder="0" scrolling="no" allowfullscreen></iframe>
+### [比原链](http://bytom.io/)
 
-### PlatON
+> 从通用型区块链到专业型区块链的阶跃。
 
-<iframe src="https://embed.block123.com/embed/s/050089911278.htm" style="border: none;" width="490" height="164" frameborder="0" scrolling="no" allowfullscreen></iframe>
+`协议`
 
-### Transmute Coin
+比原链 Bytom 是一种多样性资产的交互协议，运行在比原链区块链上的不同形态的、异构的比特资产和原子资产可以通过该协议进行登记、交换、对赌、和基于合约的更具复杂性的交互操作。
 
-<iframe src="https://embed.block123.com/embed/s/719208702128.htm" style="border: none;" width="490" height="164" frameborder="0" scrolling="no" allowfullscreen></iframe>
+### [RSK](https://www.rsk.co/)
 
-### Nervos 
+> 比特币的代表性侧链
 
-<iframe src="https://embed.block123.com/embed/s/372073624527.htm" style="border: none;" width="490" height="164" frameborder="0" scrolling="no" allowfullscreen></iframe>
+`比特币` `layer2` `侧链`
 
-### Conflux
+RSK是比特币的第一个侧链，是一个支持比特币和以太坊的智能合约平台。在这个网络中，当比特币转移到RSK区块链网络中，就变成SBTC（Smartbitcoins）。RSK是由Sergio Demain Lerner等RSK LABS核心成员创建，其智能合约虚拟机也兼容以太坊VM、Dapp开发。
 
-<iframe src="https://embed.block123.com/embed/s/435004212469.htm" style="border: none;" width="490" height="164" frameborder="0" scrolling="no" allowfullscreen></iframe>
+RSK解决了比特币加密资产性能不足问题，支持dapp在链上的开发和商用。保护比特币矿工权益和生态。RSK已经使用了第二层链外支付网络，截止2019年1月，RSK拥有超过40%的比特币散列率，成为相当成熟的智能合约平台。目前RBTC已经上线行业头部的交易平台。
+
+RSK支持图灵完备的RSK虚拟机智能合约，同时兼容比特币和以太坊；在30秒内确认交易；合并挖掘比特币；通过DECOR+共识协议来解决挖矿冲突；可以支持零知识证明等匿名技术。
+
+
+
+### [Augur](https://www.augur.net/?ref=block123)
+
+> 去中心化的预测市场平台。
+
+`以太坊` `市场预测` `Augur`
+
+去中心化的预测市场平台，基于以太坊区块链技术。用户可以用数字货币进行预测和下注，依靠群众的智慧来预判事件的发展结果，可以有效地消除对手方风险和服务器的中心化风险，同时采用加密货币（如比特币）创建出一个全球性的市场。
+
+Augur 通过允许任何人在任何时间、任何地方低成本地创建金融衍生品并在其中投机来做到这件事，这样的事在历史上还是第一次。如果说比特币给了我们去中心化的货币，而以太坊带来了去中心化的计算，Augur 将为一个去中心化的金融系统赋能。
+
+预测市场 Prediction Market 给了我们对未来的更好预见、更多直接的对冲机制和投机机制、以及，在很久之后最终实现哈耶克 Hayek 和 Arrow & Debreu 设想的情况。
+
+### [LatticeX](https://platon.network/)
+
+> 面向未来的下一代计算架构。
+
+`基础设施` `隐私计算` `Platon`
+
+PlatON 是面向未来的下一代计算架构。同构多链架构，RELOAD 覆盖网络/主链+多应用链。去中心化分布式 RPC 框架。
+
+- 计算工厂，多源数据与异构网络基础设施的连接器，整合全球算力资源、数据资源和算法资源，促进数据交易和算力交易。
+- 服务集市，将各种资源与应用服务化，每个节点均可发布和请求服务，内置丰富的基础服务，提供全面的计算、存储和通讯能力。
+- 超级清算方，为各类服务和应用的价值交换，提供运营级支持。服务涵盖计费、支付、清结算、争议处理等，让数据资产化、数据交换代币化。
+- 隐私守护者，用安全多方计算算法保障多方，协同计算的数据隐私。用零知识证明算法保障交易身份和交易内容隐私，用同态加密算法打造全加密网络。
+
+### [Nebulous](https://nebulous.tech/)
+
+> 为去中心化的下一代互联网建立区块链基础设施。
+
+`实验室`
+
+Nebulous 成立于 2014 年，总部位于波士顿，为去中心化的下一代互联网构建了区块链硬软件基础设施，其中包括领先的分布式云存储网络 Sia、美国领先的 ASIC 挖矿硬件生产商 Obelisk。
+
+他们定义区块链基础架构的特征为可扩展、无需信任、安全且完全分布式。 在充满炒作但缺乏实质内容的区块链行业中，Nebulous 是少数几个能够持续提供具有巨大潜力、实际产品的技术团队之一。
+
+他们由 Raptor Group、First Star Ventures、Fenbushi Capital 和 INBlockchain 资助。
+
+### [Ontology](https://ont.io/)
+
+> 新一代高性能基础公有链。
+
+`基础设施` `本体`
+
+新一代高性能基础公有链，包括完整的分布式账本、智能合约体系支持。同时本体架构支持公有链网体系，除了提供基础公有链服务，通过本体区块链框架支持不同应用的公有链定制，并通过不同协议群支持链网协作。在基础层之上，本体将持续提供各类分布式应用中的通用性模块，如分布式身份框架、分布式数据交换协议等支持分布式信任协作组件，并会根据应用需求持续扩展新的通用模块。
+
+本体 Ontology 是中国最有潜力的公链之一，技术层面使用了更快速的共识机制，支持跨链通信、身份验证、数据交易等。
+
+投资方包括红杉中国、经纬中国、丹华资本、Hashed、九鼎等。
+
+### [Celo](https://celo.org/)
+
+> 快速、安全、稳定的数字支付平台。
+
+`支付` `Coinbase` `稳定币`
+
+快速、安全、稳定的数字支付平台，可向任何手机号码支付，成本远低于当前水平。手机号就是你的银行账户，在智能手机上即可赚取加密货币，向任何地方的任何人发送付款。
+
+Celo 的发音为 /ˈtselo/，在世界语中的含义是「目的」。秉持类似的精神，目标是创建新的平台，让全球的人们建立联系，为最需要金融稳定的人创造条件。
+
+Celo 相信区块链技术是近几年最激动人心的创新之一；要解决世界上现实的问题，如无法得到健全的货币，在现实世界创造机会，如创建基础设施，通过微现金转账缓解贫困…
+
+### [PlatON](https://platon.network/)
+
+> 面向未来的下一代计算架构。
+
+`基础设施` `隐私计算` `Platon`
+
+PlatON 是面向未来的下一代计算架构。同构多链架构，RELOAD 覆盖网络/主链+多应用链。去中心化分布式 RPC 框架。
+
+- 计算工厂，多源数据与异构网络基础设施的连接器，整合全球算力资源、数据资源和算法资源，促进数据交易和算力交易。
+- 服务集市，将各种资源与应用服务化，每个节点均可发布和请求服务，内置丰富的基础服务，提供全面的计算、存储和通讯能力。
+- 超级清算方，为各类服务和应用的价值交换，提供运营级支持。服务涵盖计费、支付、清结算、争议处理等，让数据资产化、数据交换代币化。
+- 隐私守护者，用安全多方计算算法保障多方，协同计算的数据隐私。用零知识证明算法保障交易身份和交易内容隐私，用同态加密算法打造全加密网络。
+
+### [Transmute](https://www.transmute.industries/)
+
+> 相信区块链可扩容。
+
+`身份验证` `企业服务`
+
+Transmute 为企业构建下一代基于云的身份管理解决方案，通过基于私钥的签名、可验证凭据和不可变日志记录，简化和实施身份授权。
+
+核心技术 Transmute ID，包括云钱包和基于策略的配置，以合规性为基础，帮助客户快速满足全球隐私和数据保护相关的需求。
+
+### [Nervos ](https://www.nervos.org)
+
+> 专注于区块链最核心的协议或者基础设施的构建。
+
+`基础设施`
+
+底层设计上将区块链范式从世界计算机改变为共识自动机，链上存储共识结果，链外执行计算过程，从根本上解决了区块链的扩展性问题。
+
+团队由以太坊 Research 团队核心成员 Janx 打造，对移动节点优化、支持分布式身份协议并同步推出侧链方案，让区块链技术真实可落地。
+
+Nervos 是一套可扩展和可互操作的协议，以及一个用于分散式应用程序的开放式区块链 Trustware 平台。Trustware 是一种新的分散式计算模式，超越了分布式账本和智能合约，带来了信任的普遍表达以满足当今现实世界应用的需求。
+
+与其它智能合约平台相比，Nervos 使用「通用知识库」，这是一种具有统一状态转换语义的更简单的状态机，具有出色的可扩展性，互操作性和对网络所有参与者更好的一致性激励。
+
+### [Conflux](https://www.conflux-chain.org/)
+
+> 树图，融合 DAG 与 PoW 共识机制，扩展交易并发度和系统吞吐量。
+
+`PoW` `基础设施` `DAG`
+
+树图 Conflux 巧妙融合了 DAG 技术和 PoW 共识机制，扩展了交易并发度和系统吞吐量。与 Byteball 此类典型的 DAG 技术项目相比，在共识层面提高了系统安全性。
+
+Conflux 采用 DAG 技术，矿工节点是可以并行/并发出块的，而不用担心合法的区块被淘汰或失效。目前来看，能够提高交易并发度和系统吞吐量的设计，除了链式系统的分片技术，便是 DAG 技术。
+
+与从前的 DAG 技术项目相比，树图 Conflux 做了两点重要的技术调整或改进：
+
+- DAG 账本的顶点 V 是区块 Block-DAG，而 Byteball 的 DAG 账本的顶点 V 是单独的交易 Tx-DAG；
+- Conflux 采用 GHOST 算法进行主链的生成，Conflux 称其为 pivot-chain 轴链，而 Byteball 采用 Witnesses 见证人方式。
+
+Conflux 共识机制及实验数据是在比特币源代码框架下实现，即其区块生成的算法沿用比特币的 PoW 工作量证明机制。据 Conflux 实验数据说明，其吞吐量能达到 5.78GB/s，确认时间 4.5-7.4 分钟，交易速度 6000TPS。其交易速度是 GHOST 或者比特币的 11.62 倍，Algorand 的 3.84 倍。
 
 ## 深度教程
 
 
-## 社区成员互粉
+## Web3 Hackers互粉！
 
 1. https://github.com/xrdavies
 2. https://github.com/NakaDaoLe
