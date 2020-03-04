@@ -11,8 +11,6 @@ Hackermoon是面向 Web3/Dweb 开发者的精神营地，我们通过将开发�
 
 ## 交流群
 
-## 活跃项目
-
 ## 羊毛
 
 ### Grant机会
@@ -20,11 +18,11 @@ Hackermoon是面向 Web3/Dweb 开发者的精神营地，我们通过将开发�
 Grant一般是指主网的项目方为了增强自己生态的完整度（钱太多了，雇佣员工花不完），通过发放定向计划的方式，向独立开发者、团队征集对自己生态有利的产品或项目，一般金额相对其他活动而言更多，合作周期也更长。
 * [Algorand基金会 - 长期 - 最高25枚Algo](https://hackmd.io/@hackermoon/ryIWqehN8)
 * [Gitcoin可持续发展奖金 - 3月16日下一轮 - 最高20万美金](https://gitcoin.co/grants/?type=media)
-* [WavesGrants - 长期 - 奖励不明](https://waveslabs.com/grants?lang=en)
+* [Waves - 长期 - 奖励不明](https://waveslabs.com/grants?lang=en)
 * [比原链 - 长期 - 最高10万美金](https://hackmd.io/@hackermoon/SyplPGhNU)
 * [RSK - 长期 - 最高20万美金+导师](https://hackmd.io/@hackermoon/Sy2FcG2E8)
-* [Augur - 长期 - 最高2万5美金]()
-* [LatticeX基金会 -  - ](https://hackmd.io/@hackermoon/HJ_BdfpNU
+* [Augur - 长期 - 最高2万5美金](https://hackmd.io/@hackermoon/Hyfrnz3EU)
+* [LatticeX基金会 - 第1轮 - 最高2000万美金](https://hackmd.io/@hackermoon/HJ_BdfpNU)
 
 ### Feature赏金计划
 Feature-Bounty是指项目方需要更多的外界力量来完善自己的产品，虽然这类项目部分与Grant重叠，但普遍属于增加、完善功能或需求更小的独立产品。金额一般大于Bug赏金，但少于Grant赏金。
@@ -71,16 +69,144 @@ Hackerthon是一种程序员的宗教活动：在该活动中，很多程序员�
 * [奶牛快传8折优惠（前2000名）](https://www.v2ex.com/t/648264)
 
 
-## Bug赏金计划
+### Bug赏金计划
 一般属于对自己主网非常有信心或没信心的活动。有信心的项目方会通过bug悬赏来证明自己没有bug，没信心的项目方用悬赏可以让研发成本降低。总之，多方都有利—但是经验而谈，找bug没那么容易！
 
 * [Nervos - 长期 - 最高2万5美金](https://hackmd.io/@hackermoon/Hkv-3ghV8)
 * [Augur - 长期 - 最高2万5美金](https://hackmd.io/@hackermoon/Hyfrnz3EU)
 * [Conflux - 长期 - 最高12000FC](bounty.conflux-chain.org)
 
+## 活跃项目
+
+### Algorand
+
+<iframe src="https://embed.block123.com/embed/s/305280277937.htm" style="border: none;" width="490" height="164" frameborder="0" scrolling="no" allowfullscreen></iframe>
+
+### Gitcoin
+
+<iframe src="https://embed.block123.com/embed/s/246415224420.htm" style="border: none;" width="490" height="164" frameborder="0" scrolling="no" allowfullscreen></iframe>
+
+### Waves
+
+<iframe src="https://embed.block123.com/embed/s/133471143379.htm" style="border: none;" width="490" height="164" frameborder="0" scrolling="no" allowfullscreen></iframe>
+
+### 比原链
+
+<iframe src="https://embed.block123.com/embed/s/231174393231.htm" style="border: none;" width="490" height="164" frameborder="0" scrolling="no" allowfullscreen></iframe>
+
+### RSK
+
+
+
+### Augur
+
+<iframe src="https://embed.block123.com/embed/s/674095897562.htm" style="border: none;" width="490" height="164" frameborder="0" scrolling="no" allowfullscreen></iframe>
+
+### LatticeX
+
+<iframe src="https://embed.block123.com/embed/s/050089911278.htm" style="border: none;" width="490" height="164" frameborder="0" scrolling="no" allowfullscreen></iframe>
+
+### Nebulous
+
+<iframe src="https://embed.block123.com/embed/s/233061085427.htm" style="border: none;" width="490" height="164" frameborder="0" scrolling="no" allowfullscreen></iframe>
+
+### Ontology
+
+<iframe src="https://embed.block123.com/embed/s/401372199242.htm" style="border: none;" width="490" height="164" frameborder="0" scrolling="no" allowfullscreen></iframe>
+
+### Celo
+
+<iframe src="https://embed.block123.com/embed/s/780286036815.htm" style="border: none;" width="490" height="164" frameborder="0" scrolling="no" allowfullscreen></iframe>
+
+### PlatON
+
+<iframe src="https://embed.block123.com/embed/s/050089911278.htm" style="border: none;" width="490" height="164" frameborder="0" scrolling="no" allowfullscreen></iframe>
+
+### Transmute Coin
+
+<iframe src="https://embed.block123.com/embed/s/719208702128.htm" style="border: none;" width="490" height="164" frameborder="0" scrolling="no" allowfullscreen></iframe>
+
+### Nervos 
+
+<iframe src="https://embed.block123.com/embed/s/372073624527.htm" style="border: none;" width="490" height="164" frameborder="0" scrolling="no" allowfullscreen></iframe>
+
+### Conflux
+
+<iframe src="https://embed.block123.com/embed/s/435004212469.htm" style="border: none;" width="490" height="164" frameborder="0" scrolling="no" allowfullscreen></iframe>
 
 ## 深度教程
 
 
 ## 社区成员互粉
+
+1. https://github.com/xrdavies
+2. https://github.com/NakaDaoLe
+3. https://github.com/h4x3rotab
+4. https://github.com/syuukawa
+5. https://github.com/luckyyang
+6. https://github.com/bitrocks
+7. https://github.com/dyhbrewer
+8. https://github.com/sanjayzzzhong
+9. https://github.com/GalaIO
+10. https://github.com/bobjiang
+11. https://github.com/WannaM
+12. https://github.com/DreamWuGit
+13. https://github.com/acbiong
+14. https://github.com/libchaos
+15. https://github.com/YananLee
+16. https://github.com/xiangzhengfeng
+17. https://github.com/hmb6668
+18. https://github.com/m1365728315
+19. https://github.com/TravinC
+20. https://github.com/crazygit
+21. https://github.com/wangpengpeng
+22. https://github.com/wonige
+23. https://github.com/weixi87
+24. https://github.com/Travin0
+25. https://github.com/liwenhoho
+26. https://github.com/liuwenchao777
+27. https://github.com/liushooter
+28. https://github.com/Sniper1211
+29. https://github.com/Magua-Q
+30. https://github.com/aliasmee
+31. https://github.com/mashpolo
+32. https://github.com/yyy999
+33. https://github.com/zorrolau
+34. https://github.com/luoyt
+35. https://github.com/taosue
+36. https://github.com/zhuxiangdanxi
+37. https://github.com/zhanglinx
+38. https://github.com/6r6
+39. https://github.com/luoyongtao
+40. https://github.com/minbinL
+41. https://github.com/CP-0
+42. https://github.com/wsdo
+43. https://github.com/dynamohuang
+44. https://github.com/jiaige
+45. https://github.com/dong-baby
+46. https://github.com/Drafei007
+47. https://github.com/adamyi
+48. https://github.com/huangyan0914
+49. https://github.com/zhuxiangdanxi
+50. https://github.com/dong-baby
+51. https://github.com/Drafei007
+52. https://github.com/raymondnuaa
+53. https://github.com/shaozee
+54. https://github.com/GaloisLYJ
+55. https://github.com/EmiHe
+56. https://github.com/ooo-o
+57. https://github.com/liuyou6046
+58. https://github.com/lulu27753
+59. https://github.com/azaliasmee
+60. https://github.com/fiowind
+61. https://github.com/scottming
+62. http://github.com/eular
+63. https://github.com/xinxundong
+64. https://github.com/lixiaosong
+65. https://github.com/netcreen
+66. https://github.com/qyliuyawei
+67. https://github.com/Eagerdact
+68. https://github.com/svein1989
+69. https://github.com/BBBob
+70. https://github.com/BrunoProgramming
 
