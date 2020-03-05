@@ -10,6 +10,7 @@ Hackermoon是面向 Web3/Dweb 开发者的精神营地，我们通过将开发�
 ## 目录
 
 ## 交流群
+建设中
 
 ## 羊毛
 
@@ -27,19 +28,21 @@ Grant一般是指主网的项目方为了增强自己生态的完整度（钱太
 ### Feature赏金计划
 Feature-Bounty是指项目方需要更多的外界力量来完善自己的产品，虽然这类项目部分与Grant重叠，但普遍属于增加、完善功能或需求更小的独立产品。金额一般大于Bug赏金，但少于Grant赏金。
 * [Nebulas - 3月7日截止 - 278.9 NAS](https://hackmd.io/@hackermoon/H14BUxn4L)
+* [Townsquare - 4月6日截止 - 45.54美金](https://hackmd.io/@hackermoon/HkJDdpREI)
 * [Ontology - 长期 - 最高8000USDT](https://hackmd.io/@hackermoon/BJ5vpf348)
 
 
 ### 创业训练营
 训练营一般属于资金实力雄厚、生态威望较好的项目，通过聚集VC、投资人的方式，鼓励开发者或创业团队分享自己的idea（当然要基于项目方的开发者平台制作）。一般属于长周期、竞争类活动，winner可能会收获更多的PR和资源支持。
-* [CeloCamp - 4月10日截止 - 冠军1万美金+洛杉矶机票](https://hackmd.io/@hackermoon/HkDCUnoVU)
+* [CeloCamp - 4月10日截止 - 线上远程 - 冠军1万美金+洛杉矶机票](https://hackmd.io/@hackermoon/HkDCUnoVU)
 
 
 ### Hackathon黑客松
 Hackathon是一种程序员的宗教活动：在该活动中，很多程序员相聚在一起，以合作的形式去进行没什么实际意义的电脑编程。时长一般取决于红牛数量（days-weeks），良心点的项目方不会对Hackathon做内幕交易。我们无法分辨，所以会全部推荐！
 
-* [武汉2020黑客松 - 3月6日~8日 - 无奖励](https://mp.weixin.qq.com/s/fHv1Uvdcw5vc1Mk_VXFRPg)
-* [CreatED - 3月13日截止 - 无奖励](https://hackmd.io/@hackermoon/Hktflx248)
+* [武汉2020黑客松 - 3月6日~8日 - 线上远程 - 无奖励](https://mp.weixin.qq.com/s/fHv1Uvdcw5vc1Mk_VXFRPg)
+* [CreatED - 3月13日截止 - 英国爱丁堡 - 无奖励](https://hackmd.io/@hackermoon/Hktflx248)
+* [CIA黑客松 - 3月13日截止 - 印度班加罗尔 - 无奖励](https://hackmd.io/@hackermoon/BJi8TpAV8)
 
 ### 开发者竞赛
 这类活动一般在线上进行，主办方或项目方抛出一个议题，希望参赛开发者给出明确的解决方案。难度比较高，但奖励也很往往很丰厚。
@@ -71,7 +74,7 @@ Hackathon是一种程序员的宗教活动：在该活动中，很多程序员�
 
 ### Bug赏金计划
 一般属于对自己主网非常有信心或没信心的活动。有信心的项目方会通过bug悬赏来证明自己没有bug，没信心的项目方用悬赏可以让研发成本降低。总之，多方都有利—但是经验而谈，找bug没那么容易！
-
+* [Cybersemics - 4月18日截止 - 289.34美金](https://hackmd.io/@hackermoon/B1rqq6CVL)
 * [Nervos - 长期 - 最高2万5美金](https://hackmd.io/@hackermoon/Hkv-3ghV8)
 * [Augur - 长期 - 最高2万5美金](https://hackmd.io/@hackermoon/Hyfrnz3EU)
 * [Conflux - 长期 - 最高12000FC](bounty.conflux-chain.org)
@@ -245,8 +248,8 @@ Conflux 采用 DAG 技术，矿工节点是可以并行/并发出块的，而不
 
 Conflux 共识机制及实验数据是在比特币源代码框架下实现，即其区块生成的算法沿用比特币的 PoW 工作量证明机制。据 Conflux 实验数据说明，其吞吐量能达到 5.78GB/s，确认时间 4.5-7.4 分钟，交易速度 6000TPS。其交易速度是 GHOST 或者比特币的 11.62 倍，Algorand 的 3.84 倍。
 
-## 深度教程
-
+## 深度羊毛教程
+暂无
 
 ## Web3 Hackers互粉！
 
