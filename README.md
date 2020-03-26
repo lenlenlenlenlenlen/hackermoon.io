@@ -18,7 +18,7 @@ Grant一般是指主网的项目方为了增强自己生态的完整度（钱太
 | Gitcoin可持续发展奖金    | 3月16日下一轮    | 最高20万美金    |[未翻译](https://gitcoin.co/grants/?type=media)|
 | LatticeX基金会    | 第1轮    | 最高2000万美金    |[已翻译](https://www.chainnews.com/articles/830516018474.htm)|
 | RSK    | 长期    | 最高20万美金+导师    |[已翻译](https://www.chainnews.com/articles/356562427627.htm)|
-| 比原链    | 长期    | 最高10万美金    |[已翻译](https://www.chainnews.com/articles/788145954147.htm）|
+| 比原链    | 长期    | 最高10万美金    |[已翻译](https://www.chainnews.com/articles/788145954147.htm)|
 | Augur    | 长期    | 最高2万5美金    |[已翻译](https://hackmd.io/@hackermoon/Hyfrnz3EU)|
 | Waves   | 长期   | 奖励不明    |[未翻译](https://waveslabs.com/grants?lang=en)|
 
