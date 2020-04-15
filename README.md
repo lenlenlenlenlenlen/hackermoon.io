@@ -1,12 +1,32 @@
-![8jKx3Q.png](https://s1.ax1x.com/2020/03/25/8jKx3Q.png)
+---
+title: Hackermoon资源汇总
+tags: Web3
+---
 
-Hackermoon是面向 Web3/Dweb 开发者提供信息服务的理想国：我们通过将开发者关心的信息进行整合，希望能够将面向token编程的活动推荐给Web3.0爱好者们@
-本仓库中的资料整理自网络，也有一些来自社区开发者的推荐。希望大家撸的开心:-D
+![image.png](https://i.loli.net/2020/04/16/GYfBbL94XWPn2jh.png)
 
-## 交流群
-建设中
+## 宗旨
+🌙Hackermoon🌙是面向Web3.0开发者的自治组织。Hackermoon成员之间交流小道消息，并将通过志愿者形式贡献内容给Web3开发者。
+- 初期我们感兴趣的主要是只有**开发者可以撸的Crypto羊毛**。
+- 本仓库中的资料整理自网络，也有一些来自社区开发者的推荐。
 
-## 羊毛
+> 欢迎到 [PR](https://github.com/hacker-moon/hackermoon.io/pulls) 推荐投稿，让更多人参与你推荐的活动！
+
+
+希望大家撸的开心
+
+## 结对面向Token编程
+
+<二维码>
+
+## Web3.0羊毛
+
+### 限时活动型
+
+| 项目方 | 时间 | 奖励 |活动说明 |
+| -------- | -------- | -------- |-------- |
+| 蚂蚁区块链     | 4月16日-5月1日     | 填写问卷，得价值15元的ETH+抽奖|[中文](https://hackmd.io/@hackermoon/ryIWqehN8)     |
+| 蚂蚁区块链     | 4-6月    | 联盟链燃料费，优惠券    |[中文](https://tech.antfin.com/promotions/openchain/?chInofo=8btc)|
 
 ### Grant机会
 
