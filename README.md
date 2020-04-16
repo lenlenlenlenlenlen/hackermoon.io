@@ -37,6 +37,7 @@ Grant一般是指主网的项目方为了增强自己生态的完整度（钱太
 | 比原链    | 长期    | 最高10万美金    |[已翻译](https://www.chainnews.com/articles/788145954147.htm)|
 | Augur    | 长期    | 最高2万5美金    |[已翻译](https://hackmd.io/@hackermoon/Hyfrnz3EU)|
 | Waves   | 长期   | 奖励不明    |[未翻译](https://waveslabs.com/grants?lang=en)|
+| AVA Labs   | 长期   | 10 万美元   |[已翻译](https://www.chainnews.com/news/366562738320.htmfrom=groupmessage&isappinstalled=0)|
 
 
 ### 💰Feature赏金计划
@@ -102,6 +103,7 @@ Hackathon是一种程序员的宗教活动：在该活动中，很多程序员�
 | Nervos    | 长期   | 最高2万5美金   |[已翻译](https://hackmd.io/@hackermoon/Hkv-3ghV8L)|
 | Augur    | 长期    | 最高2万5美金  |[已翻译](https://hackmd.io/@hackermoon/Hyfrnz3EU)|
 | Conflux   | 长期    | 最高12000FC   |[已翻译](bounty.conflux-chain.org)|
+| AVA Labs   | 长期    | 最高5万美元   |[已翻译](https://www.chainnews.com/news/366562738320.htm?from=groupmessage&isappinstalled=0)|
 
 ## 深度教程 🧑‍🏫
 暂无
