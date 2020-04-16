@@ -21,6 +21,7 @@
 
 | 项目方 | 时间 | 奖励 |活动说明 |
 | -------- | -------- | -------- |-------- |
+| 蚂蚁区块链     | 4月    | 问卷活动    |[中文](https://jinshuju.net/f/d1YQEJ) |
 | 蚂蚁区块链     | 4-6月    | 联盟链燃料费，优惠券    |[中文](https://tech.antfin.com/promotions/openchain/?chInofo=8btc)|
 
 ### 🏦Grant机会
