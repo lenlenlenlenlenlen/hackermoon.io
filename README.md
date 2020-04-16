@@ -21,7 +21,6 @@
 
 | 项目方 | 时间 | 奖励 |活动说明 |
 | -------- | -------- | -------- |-------- |
-| 蚂蚁区块链     | 4月16日-5月1日     | 填写问卷，得价值15元的ETH+抽奖|[中文](https://hackmd.io/@hackermoon/ryIWqehN8)     |
 | 蚂蚁区块链     | 4-6月    | 联盟链燃料费，优惠券    |[中文](https://tech.antfin.com/promotions/openchain/?chInofo=8btc)|
 
 ### 🏦Grant机会
