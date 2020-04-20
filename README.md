@@ -8,21 +8,20 @@
 
 > 欢迎到 [PR](https://github.com/hacker-moon/hackermoon.io/pulls) 推荐投稿，让更多人参与你推荐的活动！
 
-
 希望大家撸的开心
 
 ## 结对(面向Token)编程 🧑‍🤝‍🧑 
-
-<二维码>
+Comming Soon
 
 ## Web3.0福利 
 
-### ⏱️ 限时活动型
+### ⏱️ 限时活动
 
 | 项目方 | 时间 | 奖励 |活动说明 |
 | -------- | -------- | -------- |-------- |
-| 蚂蚁区块链     | 4月    | 问卷活动    |[中文](https://jinshuju.net/f/d1YQEJ) |
-| 蚂蚁区块链     | 4-6月    | 联盟链燃料费，优惠券    |[中文](https://tech.antfin.com/promotions/openchain/?chInofo=8btc)|
+| 蚂蚁区块链     | 4-6月    | 联盟链燃料费，优惠券  |[中文](https://tech.antfin.com/promotions/openchain/?chInofo=8btc)|
+| Horseman GO     | 4月20日14:00起一个月  | EOS |[中文](https://mp.weixin.qq.com/s/xk-fxEnJEGRNrFwifgEA6A)|
+| Horseman GO     | 4月20日14:00起一个月  | EOS |[中文](https://mp.weixin.qq.com/s/xk-fxEnJEGRNrFwifgEA6A)|
 
 ### 🏦Grant机会
 
@@ -63,8 +62,9 @@ Hackathon是一种程序员的宗教活动：在该活动中，很多程序员�
 
 | 项目方 | 时间 | 奖励 |活动说明 |
 | -------- | -------- | -------- |-------- |
-| Gitcoin Skynet黑客松    | 3月14日截止     | 最高2700美金   |[已翻译](https://hackmd.io/@hackermoon/BJtZwqhVI)     |
-| Celo可持续发展目标挑战    |3月31日截止     | 最高1万美金   |[已翻译](https://www.chainnews.com/articles/446470639958.htm)     |
+| Gitcoin Skynet黑客松  | 3月14日截止     | 最高2700美金   |[已翻译](https://hackmd.io/@hackermoon/BJtZwqhVI)     |
+| Celo可持续发展目标挑战   |3月31日截止     | 最高1万美金   |[已翻译](https://www.chainnews.com/articles/446470639958.htm)     |
+| SERO第一届区块链全球开发者大赛  |5月4日报名截止     | 最高5万SERO   | [立即报名](https://contest.sero.cash/)   |
 
 
 ### 🌐测试网/主网赏金
@@ -73,8 +73,6 @@ Hackathon是一种程序员的宗教活动：在该活动中，很多程序员�
 | 项目方 | 时间 | 奖励 |活动说明 |
 | -------- | -------- | -------- |-------- |
 | PlatON环银河拉力赛    | 长期     | 平分500万LAT   |[已翻译](https://hackmd.io/@hackermoon/B137Ox348)     |
-
-
 
 ### 🤑 空投-撒钱直升机
 什么年代了，还有人空投吗？有的！刚刚撸了很多钱的老哥告诉你，区块链永远会有人空投给开发者：区块链世界中所谓空投（airdrop），就是免费给你的区块链地址（公钥）发送代币。一般分成四种：
