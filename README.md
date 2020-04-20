@@ -20,8 +20,6 @@ Comming Soon
 | 项目方 | 时间 | 奖励 |活动说明 |
 | -------- | -------- | -------- |-------- |
 | 蚂蚁区块链     | 4-6月    | 联盟链燃料费，优惠券  |[中文](https://tech.antfin.com/promotions/openchain/?chInofo=8btc)|
-| Horseman GO     | 4月20日14:00起一个月  | EOS |[中文](https://mp.weixin.qq.com/s/xk-fxEnJEGRNrFwifgEA6A)|
-| Horseman GO     | 4月20日14:00起一个月  | EOS |[中文](https://mp.weixin.qq.com/s/xk-fxEnJEGRNrFwifgEA6A)|
 
 ### 🏦Grant机会
 
@@ -66,7 +64,6 @@ Hackathon是一种程序员的宗教活动：在该活动中，很多程序员�
 | Celo可持续发展目标挑战   |3月31日截止     | 最高1万美金   |[已翻译](https://www.chainnews.com/articles/446470639958.htm)     |
 | SERO第一届区块链全球开发者大赛  |5月4日报名截止     | 最高5万SERO   | [立即报名](https://contest.sero.cash/)   |
 
-
 ### 🌐测试网/主网赏金
 当区块链主网、测试网上线后，项目方一般会需要鼓励开发者充分的参与测试，比如参与节点部署、质押等行为，因此都会预留小部分比例生态奖励作为测试网活动。因部署区块链节点标准化可能性较高，因此此类活动性价比较高。
 
@@ -87,9 +84,9 @@ Hackathon是一种程序员的宗教活动：在该活动中，很多程序员�
 | -------- | -------- | -------- |-------- |
 | Transmute Coin    | 3月17日截止    | 最高178美金   |[已翻译](https://www.chainnews.com/articles/859340791299.htm)  |
 
-
-### 😂莫名其妙的打折
-* [奶牛快传8折优惠（前2000名）](https://www.v2ex.com/t/648264)
+### 😂 免费&打折
+* [JetBrains 免费一年全家桶](jetbrains.com/shop/eform/opensource)
+> 申请门槛：在Github有维护超过3个月的项目
 
 
 ### 💣Bug赏金计划
